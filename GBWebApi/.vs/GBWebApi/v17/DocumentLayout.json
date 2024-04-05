@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2782A19F-89CE-4461-974A-43B8E0EE17E7}|Infrastructure\\Infrastructure.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\infrastructure\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2782A19F-89CE-4461-974A-43B8E0EE17E7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1256ADFB-67FD-463F-9E05-7742A912BAD7}|Domain\\Domain.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\domain\\interfaces\\repository\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1256ADFB-67FD-463F-9E05-7742A912BAD7}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repository\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952B1085-EB5C-4BC2-8BD6-6098538400D4}|Entities\\Entities.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\entities\\tables\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952B1085-EB5C-4BC2-8BD6-6098538400D4}|Entities\\Entities.csproj|solutionrelative:entities\\tables\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1256ADFB-67FD-463F-9E05-7742A912BAD7}|Domain\\Domain.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\domain\\interfaces\\service\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1256ADFB-67FD-463F-9E05-7742A912BAD7}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\service\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3074582A-C90D-4D0F-AD71-45EBCBD9314B}|Service\\Service.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3074582A-C90D-4D0F-AD71-45EBCBD9314B}|Service\\Service.csproj|solutionrelative:service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}|GBWebApi\\GBWebApi.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\gbwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}|GBWebApi\\GBWebApi.csproj|solutionrelative:gbwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2782A19F-89CE-4461-974A-43B8E0EE17E7}|Infrastructure\\Infrastructure.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\infrastructure\\configuration\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2782A19F-89CE-4461-974A-43B8E0EE17E7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configuration\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}|GBWebApi\\GBWebApi.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\gbwebapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}|GBWebApi\\GBWebApi.csproj|solutionrelative:gbwebapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}|GBWebApi\\GBWebApi.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\gbwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}|GBWebApi\\GBWebApi.csproj|solutionrelative:gbwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}|GBWebApi\\GBWebApi.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\gbwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}|GBWebApi\\GBWebApi.csproj|solutionrelative:gbwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952B1085-EB5C-4BC2-8BD6-6098538400D4}|Entities\\Entities.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\entities\\tables\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952B1085-EB5C-4BC2-8BD6-6098538400D4}|Entities\\Entities.csproj|solutionrelative:entities\\tables\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 133,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Entities\\Tables\\Products.cs",
+              "RelativeDocumentMoniker": "Entities\\Tables\\Products.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Entities\\Tables\\Products.cs",
+              "RelativeToolTip": "Entities\\Tables\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:12:08.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Infrastructure\\Repository\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\MenuRepository.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Infrastructure\\Repository\\MenuRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\MenuRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:07:40.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMenuService.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Domain\\Interfaces\\Service\\IMenuService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Service\\IMenuService.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Domain\\Interfaces\\Service\\IMenuService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Service\\IMenuService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:01:57.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Service\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Service\\DependencyInjection.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Service\\DependencyInjection.cs",
+              "RelativeToolTip": "Service\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:58:42.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Infrastructure\\Configuration\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configuration\\DatabaseContext.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Infrastructure\\Configuration\\DatabaseContext.cs",
+              "RelativeToolTip": "Infrastructure\\Configuration\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:54:34.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\GBWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "GBWebApi\\Program.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\GBWebApi\\Program.cs",
+              "RelativeToolTip": "GBWebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:53:26.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\GBWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "GBWebApi\\appsettings.json",
+              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\GBWebApi\\appsettings.json",
+              "RelativeToolTip": "GBWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T04:52:51.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\GBWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "GBWebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\GBWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "GBWebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:48:12.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\GBWebApi\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "GBWebApi\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\GBWebApi\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "GBWebApi\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:48:04.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Entities\\Tables\\Orders.cs",
+              "RelativeDocumentMoniker": "Entities\\Tables\\Orders.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Entities\\Tables\\Orders.cs",
+              "RelativeToolTip": "Entities\\Tables\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:41:59.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 133,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMenuRepository.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Domain\\Interfaces\\Repository\\IMenuRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repository\\IMenuRepository.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Domain\\Interfaces\\Repository\\IMenuRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repository\\IMenuRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:02:18.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

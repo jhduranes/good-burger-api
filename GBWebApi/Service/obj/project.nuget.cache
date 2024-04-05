@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nYKgKNkULCM+k5B2K9f/0HloariJdAVnsZxQMv72kOiI74jImh6wRGTpdRnLIeHv0uWrZOPosblIO8vWDfEytw==",
+  "success": true,
+  "projectFilePath": "D:\\Usuários\\Repositórios\\test_for_developers\\GBWebApi\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhdur\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

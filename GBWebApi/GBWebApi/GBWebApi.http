@@ -1,0 +1,6 @@
+@GBWebApi_HostAddress = http://localhost:5263
+
+GET {{GBWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
