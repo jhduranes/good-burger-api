@@ -1,11 +1,13 @@
 ﻿using Entities.Enums;
 using Entities.Tables;
+using Entities.ViewModels;
 
 namespace Domain.Interfaces.Repository
 {
     public interface IMenuRepository
     {
-        List<Products> ListAllProducts();
-        List<Products> ListSandwichsByTypes(TypeProductsEnum type);
+        List<Products> ListAllMenuItens();
+        List<Products> ListMenuItensByTypes(string type);
+        MessageViewModel AddMenuItem(Products products);
     }
 }

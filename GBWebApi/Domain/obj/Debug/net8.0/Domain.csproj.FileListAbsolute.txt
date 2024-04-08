@@ -1,0 +1,16 @@
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\bin\Debug\net8.0\Domain.dll
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\bin\Debug\net8.0\Entities.dll
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\bin\Debug\net8.0\Entities.pdb
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\obj\Debug\net8.0\Domain.dll
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Usuários\Repositórios\test_for_developers\GBWebApi\Domain\obj\Debug\net8.0\ref\Domain.dll

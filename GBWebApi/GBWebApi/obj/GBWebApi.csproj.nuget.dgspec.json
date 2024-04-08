@@ -33,7 +33,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Usuários\\Repositórios\\test_for_developers\\GBWebApi\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Usuários\\Repositórios\\test_for_developers\\GBWebApi\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -197,7 +201,19 @@
               "target": "Package",
               "version": "[8.0.3, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.3, )"
             },
@@ -286,6 +302,22 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
             }
           },
           "imports": [
@@ -337,7 +369,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Usuários\\Repositórios\\test_for_developers\\GBWebApi\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Usuários\\Repositórios\\test_for_developers\\GBWebApi\\Domain\\Domain.csproj"
+              },
+              "D:\\Usuários\\Repositórios\\test_for_developers\\GBWebApi\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Usuários\\Repositórios\\test_for_developers\\GBWebApi\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

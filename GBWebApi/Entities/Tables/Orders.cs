@@ -3,6 +3,8 @@
     public class Orders
     {
         public int Id { get; set; }
-        public string CustomertName { get; set; }
+        public string CustomerName { get; set; }
+        public decimal Amount { get; set; }
+        public decimal Discount { get; set; }        
     }
 }

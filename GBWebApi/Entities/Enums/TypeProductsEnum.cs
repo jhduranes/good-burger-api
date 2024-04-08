@@ -1,8 +1,12 @@
-﻿namespace Entities.Enums
+﻿using System.EnumAttributes;
+
+namespace Entities.Enums
 {
     public enum TypeProductsEnum
     {
-        Sandwich = 1,
-        Extra = 2
+        [StringValue("Sandwich")]
+        Sandwich,
+        [StringValue("Extra")]
+        Extra,
     }
 }

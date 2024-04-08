@@ -1,22 +1,48 @@
 [
   {
-    "ContainingType": "GBWebApi.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "GBWebApi.Controllers.MenuController",
+    "Method": "AddMenuItem",
+    "RelativePath": "api/Menu/AddItemMenu",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productVM",
+        "Type": "Entities.ViewModels.ProductInsertViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GBWebApi.Controllers.MenuController",
+    "Method": "GetAllExtras",
+    "RelativePath": "api/Menu/GetAllExtras",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[GBWebApi.WeatherForecast, GBWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GBWebApi.Controllers.MenuController",
+    "Method": "GetAllMenuOptions",
+    "RelativePath": "api/Menu/GetAllMenuOptions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GBWebApi.Controllers.MenuController",
+    "Method": "GetAllSandwichs",
+    "RelativePath": "api/Menu/GetAllSandwichs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

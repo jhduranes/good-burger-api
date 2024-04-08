@@ -1,4 +1,8 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Domain.Interfaces.Repository;
+using Domain.Interfaces.Service;
+using Infrastructure.Repository;
+using Microsoft.Extensions.DependencyInjection;
+using Service.Services;
 
 namespace Service
 {
@@ -7,11 +11,11 @@ namespace Service
         public static void AddInfrastructure(this IServiceCollection services)
         {
             #region Repository            
-            services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+            services.AddScoped<IMenuRepository, MenuRepository>();
             #endregion
 
             #region Service            
-            services.AddScoped<IUsuarioService, UsuarioService>();
+            services.AddScoped<IMenuService, MenuService>();
             #endregion
         }
     }
