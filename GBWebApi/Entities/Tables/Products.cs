@@ -1,6 +1,4 @@
-﻿using Entities.Enums;
-
-namespace Entities.Tables
+﻿namespace Entities.Tables
 {
     public class Products
     {

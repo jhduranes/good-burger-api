@@ -16,24 +16,7 @@ namespace GBWebApi.Controllers
         {
             _service = service;
         }
-
-        /// <summary>
-        /// Creating a product registration
-        /// </summary> 
-        /// <param name= "cliente">Product View model</param>
-        /// <returns>Retorna status ok, menu options data created if successful.</returns>        
-        [HttpPost]        
-        [Route("AddItemMenu")]
-        public ActionResult AddMenuItem([FromBody] ProductInsertViewModel productVM)
-        {
-            var msg = _service.AddMenuItem(productVM);            
-            return Json(msg);
-        }
-
-        /// <summary>
-        /// Consult all products on the Menu.
-        /// </summary>         
-        /// <returns>Returns status ok, menu options data if successful.</returns>
+                            
         [HttpGet]
         [Route("GetAllMenuOptions")]
         public ActionResult GetAllMenuOptions()
@@ -42,11 +25,7 @@ namespace GBWebApi.Controllers
             if (item == null) return NotFound("Register not found.");
             return Ok(item);            
         }
-
-        /// <summary>
-        /// Consult Sandwichs on the Menu.
-        /// </summary>         
-        /// <returns>Returns status ok, Sandwichs options data if successful.</returns>
+                
         [HttpGet]
         [Route("GetAllSandwichs")]
         public ActionResult GetAllSandwichs()
@@ -56,11 +35,7 @@ namespace GBWebApi.Controllers
             return Ok(item);
 
         }
-
-        /// <summary>
-        /// Consult Extras products on the Menu.
-        /// </summary>         
-        /// <returns>Returns status ok, Extras options data if successful.</returns>
+                
         [HttpGet]
         [Route("GetAllExtras")]
         public ActionResult GetAllExtras()
@@ -70,7 +45,27 @@ namespace GBWebApi.Controllers
             return Ok(item);
         }
 
+        [HttpPost]
+        [Route("AddItemMenu")]
+        public ActionResult AddMenuItem([FromBody] ProductInsertViewModel productVM)
+        {
+            var msg = _service.AddMenuItem(productVM);
+            return Json(msg);
+        }
 
+        [HttpPut("UpdateItemMenu/{id}")]
+        public ActionResult UpdateItemMenu([FromBody] ProductInsertViewModel product, int id)
+        {
+            var msg = _service.UpdateItemMenu(product, id);
+            return Json(msg);
+        }
 
+        [HttpDelete]
+        [Route("RemoveItemMenu/{id}")]
+        public ActionResult RemoveItemMenu(int id)
+        {
+            var item = _service.RemoveItemMenu(id);
+            return Ok(item);
+        }
     }
 }

@@ -9,5 +9,7 @@ namespace Domain.Interfaces.Service
         List<Products> ListSandwichs();
         List<Products> ListExtras();
         MessageViewModel AddMenuItem(ProductInsertViewModel productVM);
+        MessageViewModel UpdateItemMenu(ProductInsertViewModel product, int id);
+        MessageViewModel RemoveItemMenu(int id);
     }
 }

@@ -2,7 +2,7 @@
 
 namespace Entities.Enums
 {
-    public enum TypeProductsEnum
+    public enum TypeItemMenu
     {
         [StringValue("Sandwich")]
         Sandwich,

@@ -44,5 +44,105 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GBWebApi.Controllers.MenuController",
+    "Method": "RemoveItemMenu",
+    "RelativePath": "api/Menu/RemoveItemMenu/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GBWebApi.Controllers.MenuController",
+    "Method": "UpdateItemMenu",
+    "RelativePath": "api/Menu/UpdateItemMenu/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "Entities.ViewModels.ProductInsertViewModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GBWebApi.Controllers.OrderController",
+    "Method": "GetAllOrders",
+    "RelativePath": "GetAllOrders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GBWebApi.Controllers.OrderController",
+    "Method": "RemoveOrder",
+    "RelativePath": "RemoveOrder/{idOrder}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idOrder",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GBWebApi.Controllers.OrderController",
+    "Method": "SubmitOrder",
+    "RelativePath": "SubmitOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "Entities.ViewModels.SubmitOrderViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GBWebApi.Controllers.OrderController",
+    "Method": "UpdateOrder",
+    "RelativePath": "UpdateOrder/{idOrder}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "Entities.ViewModels.SubmitOrderViewModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "idOrder",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
