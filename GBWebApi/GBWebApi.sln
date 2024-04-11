@@ -13,15 +13,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Domain", "4-Domain", "{2C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-Entities", "5-Entities", "{29B5A2A5-377C-4F6B-98BE-5373C6322EE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{952B1085-EB5C-4BC2-8BD6-6098538400D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{952B1085-EB5C-4BC2-8BD6-6098538400D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBWebApi", "GBWebApi\GBWebApi.csproj", "{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GBWebApi", "GBWebApi\GBWebApi.csproj", "{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{3074582A-C90D-4D0F-AD71-45EBCBD9314B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{3074582A-C90D-4D0F-AD71-45EBCBD9314B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{2782A19F-89CE-4461-974A-43B8E0EE17E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{2782A19F-89CE-4461-974A-43B8E0EE17E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{1256ADFB-67FD-463F-9E05-7742A912BAD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{1256ADFB-67FD-463F-9E05-7742A912BAD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6-SQL", "6-SQL", "{FF1F98CC-E7ED-4030-9751-93D6F28F0023}"
+	ProjectSection(SolutionItems) = preProject
+		Sql_DB_Create.sql = Sql_DB_Create.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

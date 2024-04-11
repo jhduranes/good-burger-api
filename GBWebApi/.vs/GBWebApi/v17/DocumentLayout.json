@@ -3,64 +3,20 @@
   "WorkspaceRootPath": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3074582A-C90D-4D0F-AD71-45EBCBD9314B}|Service\\Service.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\service\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3074582A-C90D-4D0F-AD71-45EBCBD9314B}|Service\\Service.csproj|solutionrelative:service\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF1F98CC-E7ED-4030-9751-93D6F28F0023}|NewFolder1{FF1F98CC-E7ED-4030-9751-93D6F28F0023}|D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Sql_DB_Create.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{FF1F98CC-E7ED-4030-9751-93D6F28F0023}|NewFolder1{FF1F98CC-E7ED-4030-9751-93D6F28F0023}|solutionrelative:Sql_DB_Create.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3074582A-C90D-4D0F-AD71-45EBCBD9314B}|Service\\Service.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3074582A-C90D-4D0F-AD71-45EBCBD9314B}|Service\\Service.csproj|solutionrelative:service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}|GBWebApi\\GBWebApi.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\gbwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}|GBWebApi\\GBWebApi.csproj|solutionrelative:gbwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1256ADFB-67FD-463F-9E05-7742A912BAD7}|Domain\\Domain.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\domain\\interfaces\\repository\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1256ADFB-67FD-463F-9E05-7742A912BAD7}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repository\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2782A19F-89CE-4461-974A-43B8E0EE17E7}|Infrastructure\\Infrastructure.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\infrastructure\\configuration\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2782A19F-89CE-4461-974A-43B8E0EE17E7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configuration\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2782A19F-89CE-4461-974A-43B8E0EE17E7}|Infrastructure\\Infrastructure.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\infrastructure\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2782A19F-89CE-4461-974A-43B8E0EE17E7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1256ADFB-67FD-463F-9E05-7742A912BAD7}|Domain\\Domain.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\domain\\interfaces\\service\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1256ADFB-67FD-463F-9E05-7742A912BAD7}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\service\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}|GBWebApi\\GBWebApi.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\gbwebapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}|GBWebApi\\GBWebApi.csproj|solutionrelative:gbwebapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{952B1085-EB5C-4BC2-8BD6-6098538400D4}|Entities\\Entities.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\entities\\viewmodels\\productinsertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952B1085-EB5C-4BC2-8BD6-6098538400D4}|Entities\\Entities.csproj|solutionrelative:entities\\viewmodels\\productinsertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{952B1085-EB5C-4BC2-8BD6-6098538400D4}|Entities\\Entities.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\entities\\viewmodels\\orderresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952B1085-EB5C-4BC2-8BD6-6098538400D4}|Entities\\Entities.csproj|solutionrelative:entities\\viewmodels\\orderresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{952B1085-EB5C-4BC2-8BD6-6098538400D4}|Entities\\Entities.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\entities\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952B1085-EB5C-4BC2-8BD6-6098538400D4}|Entities\\Entities.csproj|solutionrelative:entities\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2782A19F-89CE-4461-974A-43B8E0EE17E7}|Infrastructure\\Infrastructure.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\infrastructure\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2782A19F-89CE-4461-974A-43B8E0EE17E7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}|GBWebApi\\GBWebApi.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\gbwebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE475AED-AF82-4CCE-AC9D-64D5D4BDB556}|GBWebApi\\GBWebApi.csproj|solutionrelative:gbwebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1256ADFB-67FD-463F-9E05-7742A912BAD7}|Domain\\Domain.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\domain\\interfaces\\service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1256ADFB-67FD-463F-9E05-7742A912BAD7}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{952B1085-EB5C-4BC2-8BD6-6098538400D4}|Entities\\Entities.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\entities\\tables\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952B1085-EB5C-4BC2-8BD6-6098538400D4}|Entities\\Entities.csproj|solutionrelative:entities\\tables\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3074582A-C90D-4D0F-AD71-45EBCBD9314B}|Service\\Service.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3074582A-C90D-4D0F-AD71-45EBCBD9314B}|Service\\Service.csproj|solutionrelative:service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{952B1085-EB5C-4BC2-8BD6-6098538400D4}|Entities\\Entities.csproj|d:\\usu\u00E1rios\\reposit\u00F3rios\\test_for_developers\\gbwebapi\\entities\\viewmodels\\submitorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952B1085-EB5C-4BC2-8BD6-6098538400D4}|Entities\\Entities.csproj|solutionrelative:entities\\viewmodels\\submitorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF1F98CC-E7ED-4030-9751-93D6F28F0023}|NewFolder1{FF1F98CC-E7ED-4030-9751-93D6F28F0023}|D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Sql_DB_Create.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{FF1F98CC-E7ED-4030-9751-93D6F28F0023}|NewFolder1{FF1F98CC-E7ED-4030-9751-93D6F28F0023}|solutionrelative:Sql_DB_Create.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,8 +25,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 354,
-          "SelectedChildIndex": 10,
+          "DockedWidth": 104,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,200 +50,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductInsertViewModel.cs",
-              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Entities\\ViewModels\\ProductInsertViewModel.cs",
-              "RelativeDocumentMoniker": "Entities\\ViewModels\\ProductInsertViewModel.cs",
-              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Entities\\ViewModels\\ProductInsertViewModel.cs",
-              "RelativeToolTip": "Entities\\ViewModels\\ProductInsertViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T14:34:59.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Enums.cs",
-              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Entities\\Enums\\Enums.cs",
-              "RelativeDocumentMoniker": "Entities\\Enums\\Enums.cs",
-              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Entities\\Enums\\Enums.cs",
-              "RelativeToolTip": "Entities\\Enums\\Enums.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T14:33:50.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderResponseViewModel.cs",
-              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Entities\\ViewModels\\OrderResponseViewModel.cs",
-              "RelativeDocumentMoniker": "Entities\\ViewModels\\OrderResponseViewModel.cs",
-              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Entities\\ViewModels\\OrderResponseViewModel.cs",
-              "RelativeToolTip": "Entities\\ViewModels\\OrderResponseViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T13:09:07.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IMenuService.cs",
-              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Domain\\Interfaces\\Service\\IMenuService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\Service\\IMenuService.cs",
-              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Domain\\Interfaces\\Service\\IMenuService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\Service\\IMenuService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T20:39:53.147Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\GBWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "GBWebApi\\appsettings.json",
+              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\GBWebApi\\appsettings.json",
+              "RelativeToolTip": "GBWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T12:53:46.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IMenuRepository.cs",
-              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Domain\\Interfaces\\Repository\\IMenuRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repository\\IMenuRepository.cs",
-              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Domain\\Interfaces\\Repository\\IMenuRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\Repository\\IMenuRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Infrastructure\\Configuration\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configuration\\DatabaseContext.cs",
+              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Infrastructure\\Configuration\\DatabaseContext.cs",
+              "RelativeToolTip": "Infrastructure\\Configuration\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T20:40:19.245Z",
+              "WhenOpened": "2024-04-11T12:53:22.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MenuService.cs",
-              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Service\\Services\\MenuService.cs",
-              "RelativeDocumentMoniker": "Service\\Services\\MenuService.cs",
-              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Service\\Services\\MenuService.cs",
-              "RelativeToolTip": "Service\\Services\\MenuService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCQAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T20:39:17.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MenuRepository.cs",
-              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Infrastructure\\Repository\\MenuRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\MenuRepository.cs",
-              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Infrastructure\\Repository\\MenuRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\MenuRepository.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAqwEoAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T20:40:24.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\GBWebApi\\Controllers\\MenuController.cs",
-              "RelativeDocumentMoniker": "GBWebApi\\Controllers\\MenuController.cs",
-              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\GBWebApi\\Controllers\\MenuController.cs",
-              "RelativeToolTip": "GBWebApi\\Controllers\\MenuController.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAA0wDoAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T19:40:37.357Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 303,
-          "SelectedChildIndex": 6,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SubmitOrderViewModel.cs",
-              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Entities\\ViewModels\\SubmitOrderViewModel.cs",
-              "RelativeDocumentMoniker": "Entities\\ViewModels\\SubmitOrderViewModel.cs",
-              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Entities\\ViewModels\\SubmitOrderViewModel.cs",
-              "RelativeToolTip": "Entities\\ViewModels\\SubmitOrderViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T21:44:18.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Orders.cs",
-              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Entities\\Tables\\Orders.cs",
-              "RelativeDocumentMoniker": "Entities\\Tables\\Orders.cs",
-              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Entities\\Tables\\Orders.cs",
-              "RelativeToolTip": "Entities\\Tables\\Orders.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T21:21:47.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Service\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Service\\DependencyInjection.cs",
-              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Service\\DependencyInjection.cs",
-              "RelativeToolTip": "Service\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T16:03:00.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Domain\\Interfaces\\Service\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\Service\\IOrderService.cs",
-              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Domain\\Interfaces\\Service\\IOrderService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\Service\\IOrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T05:00:32.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\GBWebApi\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "GBWebApi\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\GBWebApi\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "GBWebApi\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwCoAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T04:58:59.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Infrastructure\\Repository\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\OrderRepository.cs",
-              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Infrastructure\\Repository\\OrderRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\OrderRepository.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAwwG0AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T04:59:37.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Service\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "Service\\Services\\OrderService.cs",
-              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Service\\Services\\OrderService.cs",
-              "RelativeToolTip": "Service\\Services\\OrderService.cs",
-              "ViewState": "AQIAAHkAAAAAAAAAAAAAwIwAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T04:59:18.62Z",
+              "Title": "Sql_DB_Create.sql",
+              "DocumentMoniker": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Sql_DB_Create.sql",
+              "RelativeDocumentMoniker": "Sql_DB_Create.sql",
+              "ToolTip": "D:\\Usu\u00E1rios\\Reposit\u00F3rios\\test_for_developers\\GBWebApi\\Sql_DB_Create.sql",
+              "RelativeToolTip": "Sql_DB_Create.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-11T12:46:47.629Z",
               "EditorCaption": ""
             }
           ]
